@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "梅に鶯",
+  "base_artist": "r-906",
+  "createdAt": "2026-02-08T05:57:49.841460Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "梅に鶯",
+      "artist": "r-906",
+      "has_synced": true,
+      "path": "select/01_梅に鶯_r-906.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "【UTAUカバー】梅に鶯【湯鬱声からす、松田っぽいよ】",
+      "artist": "小森",
+      "has_synced": true,
+      "path": "select/02_【UTAUカバー】梅に鶯【湯鬱声からす、松田っぽいよ】_小森.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "梅に鶯",
+      "artist": "r-906, 琴葉 茜・葵",
+      "has_synced": false,
+      "path": "select/pl_01_梅に鶯_r-906,_琴葉_茜・葵.txt"
+    }
+  ]
+}
